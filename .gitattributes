@@ -1,0 +1,6 @@
+# Default line ending
+* text=auto
+
+# Main file line endings
+*.mcfunction text
+*.json text
